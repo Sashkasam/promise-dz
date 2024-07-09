@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ygkaawfmo7eeblu0?svg=true)](https://ci.appveyor.com/project/Sashkasam/promise-dz)
 # Домашнее задание к лекции «Promises, async/await»
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
